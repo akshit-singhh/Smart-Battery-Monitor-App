@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Battery Monitor</string>
+    <string name="wifi_signal_description">Wi-Fi Signal</string>
+    <string name="app_title">Battery Monitor</string>
+    <string name="theme_toggle_description">Theme Toggle</string>
+    <string name="refresh_data_description">Refresh Data</string>
+    <string name="key_metrics_title">Key Metrics</string>
+    <string name="voltage_description">Voltage</string>
+    <string name="voltage_label">Voltage</string>
+    <string name="current_description">Current</string>
+    <string name="current_label">Current</string>
+    <string name="power_description">Power</string>
+    <string name="power_label">Power</string>
+    <string name="actions_title">Actions</string>
+    <string name="scan_qr_button">Scan QR</string>
+    <string name="saved_settings_button">Saved Settings</string>
+    <string name="configure_wifi_button">Configure WiFi</string>
+    <string name="reboot_device_button">Reboot Device</string>
+    <string name="system_log_title">System Log</string>
+    <string name="sample_log_text">INFO System initialized successfully.\nINFO Connecting to wifi network...\nINFO WiFi connected. IP:\n192.168.1.100\nDEBUG Fetching battery data...\nDEBUG SoC: 75%, Voltage: 12.6V, Current: 2.5A\nERROR Failed to read sensor data.</string>
+    <string name="copy_ip"></string>
+    <string name="back">Back</string>
+
+
+</resources>

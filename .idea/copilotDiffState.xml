@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/batterymonitor/EspIpRepository.kt">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/app/src/main/java/com/example/batterymonitor/EspIpRepository.kt" />
+              <option name="updatedContent" value="package com.example.batterymonitor&#10;&#10;import androidx.lifecycle.LiveData&#10;import androidx.lifecycle.MutableLiveData&#10;&#10;object EspIpRepository {&#10;    private val _espIp = MutableLiveData&lt;String&gt;(&quot;192.168.1.99&quot;)&#10;    val espIp: LiveData&lt;String&gt; get() = _espIp&#10;&#10;    fun setIp(ip: String) {&#10;        _espIp.value = ip&#10;    }&#10;}&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

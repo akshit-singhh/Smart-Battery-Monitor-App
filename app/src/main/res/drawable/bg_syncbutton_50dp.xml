@@ -1,0 +1,5 @@
+<!-- bg_rounded_50dp.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <solid android:color="#EEF2FF" /> <!-- Your button background color -->
+    <corners android:radius="50dp" />
+</shape>

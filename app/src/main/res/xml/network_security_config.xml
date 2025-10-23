@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+
+    <base-config cleartextTrafficPermitted="true" /> // Allow cleartext traffic globally
+                                                    // local devices are allowed to use cleartext traffic
+</network-security-config>
