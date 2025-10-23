@@ -144,7 +144,6 @@ class MainActivity : AppCompatActivity() {
         tvEspMode = findViewById(R.id.tvEspMode)
 
         // Theme toggle
-        // Theme toggle
         themeToggleIcon = findViewById(R.id.theme_toggle_icon)
         themeToggleIcon.setOnClickListener {
             Toast.makeText(this, "Feature coming soon...", Toast.LENGTH_SHORT).show()
